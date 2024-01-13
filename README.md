@@ -6,13 +6,13 @@ SINR (Signal to Interference & Noise Ratio) measures how strong a desired signal
 SINR = signal power / (noise + interference power)
 ```
 
-<img src="/assets/SINR/diagram.png">
+<img src="/diagram.png">
 
 ### About the code
 SINR_optimization aims to optimize the transmission of two signals in a wireless network. In wireless communication, signals can get disrupted by interference and background noise. This program focuses on maximizing the quality of these signals by adjusting the power levels allocated to each signal. It does this through an optimization process where it considers various factors like the distance between transmitters and receivers (d1, d2, d3, d4), and the signal strength of each transmission point. By running through multiple scenarios with different power levels for the signals, it calculates the SINR sum for each case.
 
 <p float="center">
-  <img src = "/assets/SINR/demo.png">
+  <img src = "/demo.png">
 </p>
 
 
