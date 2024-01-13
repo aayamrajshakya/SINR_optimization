@@ -1,4 +1,4 @@
-
+# SINR_optimization
 
 ### What is SINR?
 SINR (Signal to Interference & Noise Ratio) measures how strong a desired signal is compared to unwanted interference and noise. It's the ratio of the signal power to the combined interference power and background noise power.
